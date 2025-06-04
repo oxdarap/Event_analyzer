@@ -1,0 +1,22 @@
+[
+    {
+        "phrase": "A chill goes down your spine...",
+        "message": "Exotic ore have been spawned(or higher)",
+        "file_id": "img_id"
+    },
+    {
+        "phrase": "Your heart skips a beat...",
+        "message": "Exquisite ore have been spawned",
+        "file_id": "img_id"
+    },
+    {
+        "phrase": "You hear a ringing in your ears...",
+        "message": "Transcendent ore have been spawned",
+        "file_id": "img_id"
+    },
+    {
+        "phrase": "Your vision begins to blur...",
+        "message": "Enigmatic ore have been spawned",
+        "file_id": "img_id"
+    }
+]
