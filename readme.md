@@ -41,7 +41,7 @@ Use a helper bot like @getmyidbot to obtain your CHAT_ID.
 
 5. Configure triggers
 
-Edit triggers.json to include an array of trigger objects:
+Edit triggers.json to include an array of any trigger objects that you want:
 [
   {
     "phrase": "Boss Arrived",
