@@ -25,11 +25,14 @@ numpy — Array manipulation
 requests — HTTP requests to Telegram API
 
 ## Setup
+```bash
 1. Clone the repository
+
    git clone https://github.com/oxdarap/PET-projects.git
    cd Event_analyzer
    
 3. Install dependencies
+
    pip install -r requirements.txt
    
 4. Create Telegram Bot & Chat
@@ -47,6 +50,7 @@ Edit triggers.json to include an array of trigger objects:
   },
   ...
 ]
+```
 ## Troubleshooting
 No window found: Verify the window_title contains the correct substring of your window’s title.
 
