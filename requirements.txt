@@ -1,0 +1,6 @@
+easyocr
+pygetwindow
+opencv-python
+numpy
+mss
+requests
